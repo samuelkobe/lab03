@@ -1,0 +1,15 @@
+.home-page h1 {
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  margin-top: 1.5em;
+  font-size: 7em;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  background: #444;
+}
